@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f27650cf6eef7d45b51a193bf08fffe, type: 3}
+  m_Name: Letter_G
+  m_EditorClassIdentifier: Assembly-CSharp::MorseLetter
+  letter: G
+  sequence: --.
+  mnemonic: GOD LOVES it
+  easyAudio: {fileID: 8300000, guid: d5547bdbbe890a740bc9577441d95a86, type: 3}
+  mediumAudio: {fileID: 8300000, guid: 70e4374b99c8a0647911c7b9d225c2fd, type: 3}
+  hardAudio: {fileID: 8300000, guid: eab8c026b13366446bc6577136e9ed1f, type: 3}

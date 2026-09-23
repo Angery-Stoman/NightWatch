@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f27650cf6eef7d45b51a193bf08fffe, type: 3}
+  m_Name: Letter_P
+  m_EditorClassIdentifier: Assembly-CSharp::MorseLetter
+  letter: P
+  sequence: .--.
+  mnemonic: a PRAY-ING abe
+  easyAudio: {fileID: 8300000, guid: 79843c9a9b25d634086cdc8ccf98c5ce, type: 3}
+  mediumAudio: {fileID: 8300000, guid: 446d703aa01fa664d956034bd75fe46e, type: 3}
+  hardAudio: {fileID: 8300000, guid: 1eba0df846c803547858c2aa5e40b7f4, type: 3}

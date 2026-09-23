@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f27650cf6eef7d45b51a193bf08fffe, type: 3}
+  m_Name: Letter_O
+  m_EditorClassIdentifier: Assembly-CSharp::MorseLetter
+  letter: O
+  sequence: ---
+  mnemonic: ONE OF US
+  easyAudio: {fileID: 8300000, guid: 57d0b913ba2285048ad7e55641ef9336, type: 3}
+  mediumAudio: {fileID: 8300000, guid: 7275edc345e84d5449cb9d3857005f0f, type: 3}
+  hardAudio: {fileID: 8300000, guid: e25cfe18ff4bdc149957dd275b5c6be5, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f27650cf6eef7d45b51a193bf08fffe, type: 3}
+  m_Name: Letter_F
+  m_EditorClassIdentifier: Assembly-CSharp::MorseLetter
+  letter: F
+  sequence: ..-.
+  mnemonic: fetch a FIRE-man
+  easyAudio: {fileID: 8300000, guid: bc432206ea7f2c1458da7a4cb79141cf, type: 3}
+  mediumAudio: {fileID: 8300000, guid: 0ce1c0d2c1358c74c9b1480fc13ea183, type: 3}
+  hardAudio: {fileID: 8300000, guid: 08cbae9aa4ca2074ebc4f3758e2f2167, type: 3}

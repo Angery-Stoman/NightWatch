@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f27650cf6eef7d45b51a193bf08fffe, type: 3}
+  m_Name: Letter_X
+  m_EditorClassIdentifier: Assembly-CSharp::MorseLetter
+  letter: X
+  sequence: -..-
+  mnemonic: X marks the SPOT
+  easyAudio: {fileID: 8300000, guid: a7805416904382249b59b52270307e93, type: 3}
+  mediumAudio: {fileID: 8300000, guid: ace89e2af61b59849a7bda2cce4ab150, type: 3}
+  hardAudio: {fileID: 8300000, guid: 730cfee14244ca34f8d8682ef46c286c, type: 3}

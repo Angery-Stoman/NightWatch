@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f27650cf6eef7d45b51a193bf08fffe, type: 3}
+  m_Name: Letter_D
+  m_EditorClassIdentifier: Assembly-CSharp::MorseLetter
+  letter: D
+  sequence: -..
+  mnemonic: DAD did it
+  easyAudio: {fileID: 8300000, guid: 0926cc7c8c501ec419cc889d387ec9d7, type: 3}
+  mediumAudio: {fileID: 8300000, guid: eb1d9022f8c2c114fa50934b6a4f7f6a, type: 3}
+  hardAudio: {fileID: 8300000, guid: 69065c8610bfc484e884097e73ee1ec1, type: 3}
